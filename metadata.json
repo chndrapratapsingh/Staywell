@@ -1,0 +1,6 @@
+{
+  "name": "Renter - Room Finding & Landlord Listing Platform",
+  "description": "Find rooms quickly or list yours with ease. Location filtering, interactive listings map, landlord and student registration, and easy price options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
